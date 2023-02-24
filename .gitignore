@@ -1,4 +1,5 @@
 # C++ objects and libs
+my_descr.txt
 *.slo
 *.lo
 *.o
