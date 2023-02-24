@@ -1,4 +1,6 @@
 EDIT FROM MAIN
+EDIT FROM BRANCH TASK1
+
 file1
 edit file1 from github
 edit file1 from pc
